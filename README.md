@@ -3,7 +3,7 @@ Developed a pricing and stress testing framework for structured products (e.g. a
 
 ## 📽️ Demo: Basic Option Strategies
 
-[![Watch the demo](Demo%20Videos/Basic%20Strategies.png)](Demo%20Videos/Basic%20Strategies.mov)
+[![Watch the demo](Demo%20Videos/Basic%20Strategies.png)](https://youtu.be/WM0zSpVz194)
 
 This demo shows the basic payoff structures for options strategies, including spreads.
 
