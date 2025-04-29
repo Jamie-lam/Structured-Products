@@ -3,7 +3,7 @@ Developed a pricing and stress testing framework for structured products (e.g. a
 
 ## 📹 Demo Video: Option Strategy Visualizer
 
-https://github.com/Jamie-lam/Structured-Products/issues/1#issue-3027775665
+https://github.com/user-attachments/assets/24040880-a0ed-457f-bd13-04a75471f8ec
 
-This demo shows live pricing and Greeks (Delta, Gamma, Vega, Theta, Rho) across different option structures using Monte Carlo simulation and Streamlit.
+This demo shows live pricing and Greeks (Delta, Gamma, Vega, Theta, Rho) across different option structures using BS formula and Streamlit.
 
