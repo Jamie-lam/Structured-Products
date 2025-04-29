@@ -11,3 +11,9 @@ This demo shows pricing and Greeks (Delta, Gamma, Vega, Theta, Rho) across diffe
 https://github.com/user-attachments/assets/fc495e81-292c-4625-9f29-959eb1ab5e78
 
 This demo shows pricing and Cega across 3-stocks option structures using GBM simulation and Cholesky decomposition.
+
+## 📹 Asian Options
+https://github.com/user-attachments/assets/b1ebcace-3101-41f1-83ae-369e78e1c6c5
+
+This demo shows geometric weighting is a lower bound of arithmetic asian option.
+
