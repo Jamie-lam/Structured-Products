@@ -3,6 +3,7 @@ Developed a pricing and stress testing framework for structured products (e.g. a
 
 ## 📽️ Demo: Basic Option Strategies
 
-[![Watch the demo](Demo Videos/Basic Strategies.png)](Demo Videos/Basic Strategies.mov)
+[![Watch the demo](Demo%20Videos/Basic%20Strategies.png)](Demo%20Videos/Basic%20Strategies.mov)
 
-This demo showcases pricing of Asian and barrier options using Monte Carlo simulations. Interactive controls are powered by Streamlit, with live payoff graphs and barrier status indicators.
+This demo shows the basic payoff structures for options strategies, including spreads.
+
